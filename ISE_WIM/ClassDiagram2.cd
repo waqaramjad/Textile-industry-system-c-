@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ISE_WIM.Control_Classes.Contract_Control" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control Classes\Contract_Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Control_Classes.Invoice_CONTROL" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control Classes\Invoice_CONTROL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Control_Classes.PackingList_CONTROL" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control Classes\PackingList_CONTROL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Control_Classes.Production_Control" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control Classes\Production_Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Control_Classes.QWIR_CONTROL" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control Classes\QWIR_CONTROL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Control_Classes.Sizing_Control" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control Classes\Sizing_Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Control_Classes.YarnReciept_Control" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control Classes\YarnReciept_Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Delete" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAABBAA=</HashCode>
+      <FileName>Delete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Form1" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAKAAABAAAACAAAACAMA4AAAAAHAEAAACAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Generate_Yarn_Recipt" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Generate_Yarn_Recipt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Main_Menu" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SUAEAAACCKAEgAOAAACIAQBigAEIAAAAAGAARAHCCQE=</HashCode>
+      <FileName>Main Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.PrintRibbonControllerResources" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAgRMgDjagAOosdEwk5FstNYfEcToHCxQBk3SEgC4E=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Production" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAADAAAACCABCJABgCAIA4AAAAACCAAAACBgA=</HashCode>
+      <FileName>Production.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Program" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Add_Manager" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQQAACkACAAAAMAAZKJAAICUAgEAQQYQEEEIBDABgI=</HashCode>
+      <FileName>Simple Forms\Add Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Sql_Class" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAQAEAAAAQAAAAAAAAgAAAQAAAAgAAg=</HashCode>
+      <FileName>Sql_Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Invoice" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARQIAQCAQjAgFACQJBiJAtgiUAAEACYAAAWIIggAFII=</HashCode>
+      <FileName>Transactional Forms\Invoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Packing_List" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAYCAADAABAAAJBiJAtgiUAAEAAQABAGIoAhABII=</HashCode>
+      <FileName>Transactional Forms\Packing List.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Quality_wise_Item_Summary" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAiAACCAAIQAGABSAAAACAAAAAAEAAiAAAAAAABA=</HashCode>
+      <FileName>Transactional Forms\Quality wise Item Summary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Sizing" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gSAAACCEACQABIJSKBCIB9ICABEEBAAIAIACAAAEDAI=</HashCode>
+      <FileName>Transactional Forms\Sizing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.XRDesignRibbonControllerResources" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ALhE8Ag0CAwIByJEJJABUgg4gZpFQEeEAACxgO+RDYQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Buyer" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Buyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Challan_DO" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Challan_DO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Client" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Contract" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.DelievrySchedule" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\DelievrySchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Invoice_LineItem" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Invoice LineItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Invoice" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Invoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Item_GreyCLoth" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Item_GreyCLoth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Item_YARN" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Item_YARN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Manager" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.MendingReport" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\MendingReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.PackingList" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\PackingList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.PR_LineItem" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\PR_LineItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.ProductionReport" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\ProductionReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.QWIR" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\QWIR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.QWIR_LineItem" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\QWIR_LineItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Shift" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Shift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Sizing" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Sizing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.SizingLineItem" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\SizingLineItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Entity_Class.Yarn_Reciept" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Class\Yarn_Reciept.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Interface_Classes.I_Add_Client" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface Classes\I_Add_Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Interface_Classes.I_Add_Manager" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface Classes\I_Add_Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Interface_Classes.I_Contract" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface Classes\I_Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Interface_Classes.I_Invoice" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface Classes\I_Invoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Interface_Classes.I_PackingList" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface Classes\I_PackingList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Interface_Classes.I_Production" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface Classes\I_Production.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Interface_Classes.I_Reports" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface Classes\I_Reports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Interface_Classes.I_Sizing" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface Classes\I_Sizing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Interface_Classes.I_YarnReciept" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface Classes\I_YarnReciept.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Properties.Settings" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Simple_Forms.AddClient" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAACgACAAAAEAARKBAAIiUAgAAAAYAEEEABDAAAA=</HashCode>
+      <FileName>Simple Forms\AddClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Transactional_Forms.Contract" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASEAACCUAKAABQICIBCJAtAiEEAEBQAAAAGAYIgCBAI=</HashCode>
+      <FileName>Transactional Forms\Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISE_WIM.Transactional_Forms.generate_Yarn_Recipt" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAADSEVjAABAKCINLJA/6CEIAEYQAQAAGNAC4AVgI=</HashCode>
+      <FileName>Transactional Forms\generate_Yarn_Recipt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

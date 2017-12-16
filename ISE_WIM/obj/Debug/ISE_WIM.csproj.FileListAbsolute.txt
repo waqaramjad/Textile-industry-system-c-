@@ -1,0 +1,814 @@
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.exe.config
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.exe
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.pdb
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.csprojResolveAssemblyReference.cache
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Form1.resources
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Properties.Resources.resources
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.csproj.GenerateResource.Cache
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.exe
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.pdb
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Invoice.resources
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Quality_wise_Item_Summary.resources
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Packing_List.resources
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\MetroFramework.Design.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\MetroFramework.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Main_Menu.resources
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Add_Manager.resources
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.CodeParser.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.UI.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Office.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.PivotGrid.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.UI.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Extensions.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGauges.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPivotGrid.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.Extensions.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraRichEdit.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraVerticalGrid.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Xpo.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraWizard.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Charts.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.UI.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Office.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.PivotGrid.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.RichEdit.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.UI.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGauges.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPivotGrid.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.Extensions.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraRichEdit.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraVerticalGrid.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Xpo.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraWizard.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.PrintRibbonControllerResources.resources
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.XRDesignRibbonControllerResources.resources
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.exe.licenses
+C:\Users\Hamza Yousuf\Dropbox\Weaving Industry Management\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.Add_Client.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.exe.config
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.exe
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.pdb
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.exe
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.pdb
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.CodeParser.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.UI.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Office.v14.1.Core.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.PivotGrid.v14.1.Core.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.UI.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Extensions.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGauges.v14.1.Core.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPivotGrid.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.Extensions.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraRichEdit.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraVerticalGrid.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Xpo.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraWizard.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Charts.v14.1.Core.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.UI.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Office.v14.1.Core.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.PivotGrid.v14.1.Core.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.RichEdit.v14.1.Core.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.UI.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGauges.v14.1.Core.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPivotGrid.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.Extensions.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraRichEdit.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraVerticalGrid.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Xpo.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraWizard.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.csprojResolveAssemblyReference.cache
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.Add_Client.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Add_Manager.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Form1.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Sizing.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Invoice.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Main_Menu.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.PrintRibbonControllerResources.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Packing_List.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Properties.Resources.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Quality_wise_Item_Summary.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.XRDesignRibbonControllerResources.resources
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.csproj.GenerateResource.Cache
+C:\Users\khanm\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.exe.licenses
+G:\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.exe.config
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.exe
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.pdb
+G:\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.exe
+G:\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.pdb
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.CodeParser.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Data.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.UI.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Office.v14.1.Core.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.PivotGrid.v14.1.Core.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.UI.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraBars.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Extensions.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGauges.v14.1.Core.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPivotGrid.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.Extensions.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraRichEdit.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraVerticalGrid.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\MetroFramework.Design.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\MetroFramework.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\MetroFramework.Fonts.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Xpo.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraWizard.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Charts.v14.1.Core.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Data.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.UI.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Office.v14.1.Core.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.PivotGrid.v14.1.Core.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.RichEdit.v14.1.Core.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.UI.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraBars.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGauges.v14.1.Core.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPivotGrid.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.Extensions.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraRichEdit.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraVerticalGrid.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Xpo.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraWizard.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.DataAccess.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.DataAccess.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.DataAccess.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.DataAccess.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.DataAccess.v14.1.UI.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.DataAccess.v14.1.UI.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.DataAccess.v14.1.UI.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.DataAccess.v14.1.UI.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Office.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Office.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Office.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Office.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.PivotGrid.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.PivotGrid.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.PivotGrid.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.PivotGrid.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.RichEdit.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.RichEdit.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.RichEdit.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.RichEdit.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Utils.v14.1.UI.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Utils.v14.1.UI.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Utils.v14.1.UI.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Utils.v14.1.UI.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraCharts.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraCharts.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraCharts.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraCharts.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraGauges.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraGauges.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraPivotGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraPivotGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraPivotGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraPivotGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraReports.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraReports.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraReports.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraReports.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraRichEdit.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraRichEdit.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraRichEdit.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraRichEdit.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Xpo.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Xpo.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Xpo.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Xpo.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraWizard.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraWizard.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraWizard.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraWizard.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.csprojResolveAssemblyReference.cache
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Generate_Yarn_Recipt.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.Add_Client.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Add_Manager.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Form1.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Transactional_Forms.Contract.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Transactional_Forms.generate_Yarn_Recipt.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Sizing.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Invoice.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Main_Menu.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.PrintRibbonControllerResources.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Packing_List.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Properties.Resources.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Quality_wise_Item_Summary.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.XRDesignRibbonControllerResources.resources
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.csproj.GenerateResource.Cache
+G:\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.exe.licenses
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Delete.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.MENU2.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Packing_Report.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Production.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Reports.Invoice_Report.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Add_Manager.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.AddClient.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Transactional_Forms.Contract.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Transactional_Forms.generate_Yarn_Recipt.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Sizing.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Invoice.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Main_Menu.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.PrintRibbonControllerResources.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Packing_List.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Properties.Resources.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Quality_wise_Item_Summary.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.XRDesignRibbonControllerResources.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.csproj.GenerateResource.Cache
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.exe.licenses
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\RdlCompile.cache
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\RdlCompile.compiled
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.exe.config
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.exe
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ISE_WIM.pdb
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.CodeParser.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.UI.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Office.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.PivotGrid.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.RichEdit.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.UI.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Extensions.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGauges.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPivotGrid.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.Extensions.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraRichEdit.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraVerticalGrid.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\MetroFramework.Design.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\MetroFramework.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Xpo.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraWizard.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Charts.v14.1.Core.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.DataAccess.v14.1.UI.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Office.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.PivotGrid.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.RichEdit.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Utils.v14.1.UI.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGauges.v14.1.Core.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPivotGrid.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraReports.v14.1.Extensions.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraRichEdit.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraVerticalGrid.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.Xpo.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraWizard.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.DataAccess.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.DataAccess.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Office.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.PivotGrid.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.RichEdit.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Utils.v14.1.UI.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraPivotGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraReports.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraReports.v14.1.Extensions.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraRichEdit.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraVerticalGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.Xpo.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraWizard.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Reports.invoice_report_1.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.exe
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.pdb
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Reports.production_report_viewer.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.csprojResolveAssemblyReference.cache
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.ViewProductionRecord.resources
+C:\Users\Hamza Yousuf\Documents\Visual Studio 2015\Projects\ISE_WIM\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.Add_Item.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\ISE_WIM.exe.config
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.exe
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.pdb
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\ISE_WIM.exe
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\ISE_WIM.pdb
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.csprojResolveAssemblyReference.cache
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Delete.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.MENU2.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Packing_Report.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Production.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Reports.invoice_report_1.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Reports.Invoice_Report.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Reports.production_report_viewer.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.Add_Item.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Add_Manager.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.AddClient.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.ViewProductionRecord.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Transactional_Forms.Contract.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Transactional_Forms.generate_Yarn_Recipt.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Sizing.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Invoice.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Main_Menu.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.PrintRibbonControllerResources.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Packing_List.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Properties.Resources.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Quality_wise_Item_Summary.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.XRDesignRibbonControllerResources.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.csproj.GenerateResource.Cache
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.exe.licenses
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.ADD_Employ.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Simple_Forms.Factories.resources
+W:\3rd semester\Software Development\HY\Hamza Yousuf\ise_wim\ISE_WIM\obj\Debug\ISE_WIM.Login_Form.resources
